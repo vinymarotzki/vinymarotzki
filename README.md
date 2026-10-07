@@ -85,7 +85,7 @@ const viny = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinymarotzki&bg_color=0A0A0A&color=C9D1D9&title_color=E50914&line=E50914&point=FFFFFF&area=true&area_color=E50914&hide_border=true&custom_title=Atividade%20nos%20%C3%BAltimos%2031%20dias" width="100%" alt="Activity Graph" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=vinymarotzki&bg_color=0A0A0A&color=C9D1D9&title_color=E50914&line=E50914&point=FFFFFF&area=true&area_color=E50914&hide_border=true&custom_title=Atividade%20nos%20%C3%BAltimos%2031%20dias" width="100%" alt="Activity Graph" />
 </p>
 
 <br />
@@ -94,7 +94,7 @@ const viny = {
 <h3>› troféus</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinymarotzki&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=vinymarotzki&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 <br />
