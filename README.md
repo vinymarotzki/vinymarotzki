@@ -59,16 +59,18 @@ const viny = {
   <tr>
     <td width="50%" valign="top">
       <h4>▸ cgc-idr</h4>
+      <sub><b>Índice de Desempenho Reativo</b></sub>
+      <p>Painel web que calcula o IDR a partir das ocorrências registradas no ambiente escolar e compara as redes Estadual, Municipal e Particular ao longo dos anos.</p>
       <img src="https://img.shields.io/badge/reposit%C3%B3rio-privado-E50914?style=flat-square&labelColor=0A0A0A" alt="Repositório privado" />
     </td>
     <td width="50%" valign="top">
       <h4>▸ ifpse</h4>
+      <sub><b>Riscos psicossociais na segurança escolar</b></sub>
+      <p>Transforma um questionário curto em uma leitura de como a organização da escola ajuda ou atrapalha a prevenção de acidentes. CIPA, coordenação e gestão veem numa única tela onde está o risco, quanto ele pesa e o que fazer.</p>
       <img src="https://img.shields.io/badge/reposit%C3%B3rio-privado-E50914?style=flat-square&labelColor=0A0A0A" alt="Repositório privado" />
     </td>
   </tr>
 </table>
-
-<br />
 
 <!-- ================= STATS ================= -->
 <h3>› números</h3>
