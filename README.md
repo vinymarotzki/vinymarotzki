@@ -5,7 +5,7 @@
 
 <!-- ================= TYPING ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=E50914&center=true&vCenter=true&width=560&lines=Desenvolvedor+Jr.+na+SASI;Node.js+%C2%B7+TypeScript+%C2%B7+Supabase;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Menos+planilha%2C+mais+sistema." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=E50914&center=true&vCenter=true&width=560&lines=Desenvolvedor+Jr.+na+SASI;Node.js+%C2%B7+TypeScript+%C2%B7+Supabase;Pain%C3%A9is+de+dados+para+seguran%C3%A7a+escolar;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,13 @@
 <!-- ================= SOBRE ================= -->
 <h3>› sobre mim</h3>
 
-Desenvolvedor Jr. na **SASI**. Hoje boa parte do meu trabalho é tirar processos de dentro de planilhas e transformar em sistemas de verdade, que a equipe usa no dia a dia.
+Desenvolvedor Jr. na **SASI**. Construo sistemas web e mobile com Node.js e TypeScript, do back-end ao deploy.
+
+Hoje meu trabalho passa por três frentes:
+
+- **Gestão de equipe:** apps para o gestor distribuir atividades e para cada pessoa registrar o que fez, direto do celular.
+- **Indicadores:** painéis que calculam índices a partir de ocorrências e comparam redes de ensino ao longo dos anos.
+- **Segurança escolar:** ferramentas que transformam questionários em diagnóstico, mostrando onde está o risco e o que fazer.
 
 ```ts
 const viny = {
@@ -26,6 +32,8 @@ const viny = {
   empresa: "SASI",
   faculdade: "Ciência da Computação",
   stack: ["Node.js", "TypeScript", "JavaScript", "Docker", "Supabase"],
+  deploy: "Vercel",
+  editor: "VS Code",
 };
 ```
 
@@ -35,7 +43,7 @@ const viny = {
 <h3>› stack</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,docker,supabase&theme=dark&perline=5" alt="Node.js, TypeScript, JavaScript, Docker, Supabase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,docker,supabase,vercel,vscode&theme=dark&perline=7" alt="Node.js, TypeScript, JavaScript, Docker, Supabase, Vercel, VS Code" />
 </p>
 
 <br />
@@ -71,6 +79,8 @@ const viny = {
     </td>
   </tr>
 </table>
+
+<br />
 
 <!-- ================= STATS ================= -->
 <h3>› números</h3>
